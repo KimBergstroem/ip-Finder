@@ -1,1 +1,4 @@
-# Your requirements go here
+click==8.1.7
+future==0.18.3
+geocoder==1.38.1
+ratelim==0.1.6
